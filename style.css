@@ -1,0 +1,8 @@
+@media screen and (max-width:600px){
+    h1{
+        font-size: 100px;
+        text-align: center;
+        color: red;
+        font-family: cursive;
+    }
+}
